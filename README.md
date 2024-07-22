@@ -1,1 +1,2 @@
-# global_last_project
+<h1>글로벌 직업 전문학교 마지막 프로젝트</h1>
+<h2>RPA과 django를 이용한 사출 자동 계산기입니다</h2>
